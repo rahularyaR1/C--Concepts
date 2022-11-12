@@ -1,7 +1,7 @@
 {
   "format": 1,
   "restore": {
-    "G:\\Projects\\C# Projects\\C# Concepts\\accessmodifiers\\AccessModifiers.csproj": {}
+    "G:\\Projects\\C# Projects\\C# Concepts\\AccessModifiers\\AccessModifiers.csproj": {}
   },
   "projects": {
     "G:\\Projects\\C# Projects\\C# Concepts\\AccessModifiersLib\\AccessModifiersLib.csproj": {
@@ -63,14 +63,14 @@
         }
       }
     },
-    "G:\\Projects\\C# Projects\\C# Concepts\\accessmodifiers\\AccessModifiers.csproj": {
+    "G:\\Projects\\C# Projects\\C# Concepts\\AccessModifiers\\AccessModifiers.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\Projects\\C# Projects\\C# Concepts\\accessmodifiers\\AccessModifiers.csproj",
+        "projectUniqueName": "G:\\Projects\\C# Projects\\C# Concepts\\AccessModifiers\\AccessModifiers.csproj",
         "projectName": "AccessModifiers",
-        "projectPath": "G:\\Projects\\C# Projects\\C# Concepts\\accessmodifiers\\AccessModifiers.csproj",
+        "projectPath": "G:\\Projects\\C# Projects\\C# Concepts\\AccessModifiers\\AccessModifiers.csproj",
         "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-        "outputPath": "G:\\Projects\\C# Projects\\C# Concepts\\accessmodifiers\\obj\\",
+        "outputPath": "G:\\Projects\\C# Projects\\C# Concepts\\AccessModifiers\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
