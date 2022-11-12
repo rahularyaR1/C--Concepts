@@ -1,0 +1,12 @@
+G:\Projects\C# Projects\C# Concepts\AccessModifiersLib\bin\Debug\net7.0\AccessModifiersLib.deps.json
+G:\Projects\C# Projects\C# Concepts\AccessModifiersLib\bin\Debug\net7.0\AccessModifiersLib.dll
+G:\Projects\C# Projects\C# Concepts\AccessModifiersLib\bin\Debug\net7.0\AccessModifiersLib.pdb
+G:\Projects\C# Projects\C# Concepts\AccessModifiersLib\obj\Debug\net7.0\AccessModifiersLib.csproj.AssemblyReference.cache
+G:\Projects\C# Projects\C# Concepts\AccessModifiersLib\obj\Debug\net7.0\AccessModifiersLib.GeneratedMSBuildEditorConfig.editorconfig
+G:\Projects\C# Projects\C# Concepts\AccessModifiersLib\obj\Debug\net7.0\AccessModifiersLib.AssemblyInfoInputs.cache
+G:\Projects\C# Projects\C# Concepts\AccessModifiersLib\obj\Debug\net7.0\AccessModifiersLib.AssemblyInfo.cs
+G:\Projects\C# Projects\C# Concepts\AccessModifiersLib\obj\Debug\net7.0\AccessModifiersLib.csproj.CoreCompileInputs.cache
+G:\Projects\C# Projects\C# Concepts\AccessModifiersLib\obj\Debug\net7.0\AccessModifiersLib.dll
+G:\Projects\C# Projects\C# Concepts\AccessModifiersLib\obj\Debug\net7.0\refint\AccessModifiersLib.dll
+G:\Projects\C# Projects\C# Concepts\AccessModifiersLib\obj\Debug\net7.0\AccessModifiersLib.pdb
+G:\Projects\C# Projects\C# Concepts\AccessModifiersLib\obj\Debug\net7.0\ref\AccessModifiersLib.dll
