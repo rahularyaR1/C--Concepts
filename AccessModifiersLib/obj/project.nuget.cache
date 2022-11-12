@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ja13DJmpJm5GTNROT85WTMj+IYH0Brx5cE5W9tdf04Ztswz3UEncANOGVm8X8MX1gitzFssCLffCzsG4CRVGfA==",
+  "dgSpecHash": "YlMgg7o9SKzge8uAI6p0sLPkvlx6OQFdE4IqEHDOPkOhYUVGhuarrCEpSu/PAX6UmIyAMNI9zVbteOe1zzPQVA==",
   "success": true,
-  "projectFilePath": "G:\\Projects\\C# Projects\\C# Concepts\\AccessModifiersLib\\AccessModifiersLib.csproj",
+  "projectFilePath": "G:\\Projects\\C# Projects\\C# Concepts\\AccessModifiersLib\\InterfaceLibrary.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

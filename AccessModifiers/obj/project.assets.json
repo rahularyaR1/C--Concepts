@@ -2,28 +2,28 @@
   "version": 3,
   "targets": {
     "net7.0": {
-      "AccessModifiersLib/1.0.0": {
+      "InterfaceLibrary/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
         "compile": {
-          "bin/placeholder/AccessModifiersLib.dll": {}
+          "bin/placeholder/InterfaceLibrary.dll": {}
         },
         "runtime": {
-          "bin/placeholder/AccessModifiersLib.dll": {}
+          "bin/placeholder/InterfaceLibrary.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "AccessModifiersLib/1.0.0": {
+    "InterfaceLibrary/1.0.0": {
       "type": "project",
-      "path": "../AccessModifiersLib/AccessModifiersLib.csproj",
-      "msbuildProject": "../AccessModifiersLib/AccessModifiersLib.csproj"
+      "path": "../AccessModifiersLib/InterfaceLibrary.csproj",
+      "msbuildProject": "../AccessModifiersLib/InterfaceLibrary.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net7.0": [
-      "AccessModifiersLib >= 1.0.0"
+      "InterfaceLibrary >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -33,11 +33,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\Projects\\C# Projects\\C# Concepts\\accessmodifiers\\AccessModifiers.csproj",
-      "projectName": "AccessModifiers",
-      "projectPath": "G:\\Projects\\C# Projects\\C# Concepts\\accessmodifiers\\AccessModifiers.csproj",
+      "projectUniqueName": "G:\\Projects\\C# Projects\\C# Concepts\\AccessModifiers\\ConsoleUI.csproj",
+      "projectName": "ConsoleUI",
+      "projectPath": "G:\\Projects\\C# Projects\\C# Concepts\\AccessModifiers\\ConsoleUI.csproj",
       "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-      "outputPath": "G:\\Projects\\C# Projects\\C# Concepts\\accessmodifiers\\obj\\",
+      "outputPath": "G:\\Projects\\C# Projects\\C# Concepts\\AccessModifiers\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -58,8 +58,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "G:\\Projects\\C# Projects\\C# Concepts\\AccessModifiersLib\\AccessModifiersLib.csproj": {
-              "projectPath": "G:\\Projects\\C# Projects\\C# Concepts\\AccessModifiersLib\\AccessModifiersLib.csproj"
+            "G:\\Projects\\C# Projects\\C# Concepts\\AccessModifiersLib\\InterfaceLibrary.csproj": {
+              "projectPath": "G:\\Projects\\C# Projects\\C# Concepts\\AccessModifiersLib\\InterfaceLibrary.csproj"
             }
           }
         }

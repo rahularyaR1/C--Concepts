@@ -1,7 +1,7 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
   <ItemGroup>
-    <ProjectReference Include="..\AccessModifiersLib\AccessModifiersLib.csproj" />
+    <ProjectReference Include="..\AccessModifiersLib\InterfaceLibrary.csproj" />
   </ItemGroup>
 
   <PropertyGroup>

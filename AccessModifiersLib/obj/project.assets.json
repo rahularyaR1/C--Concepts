@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\Projects\\C# Projects\\C# Concepts\\AccessModifiersLib\\AccessModifiersLib.csproj",
-      "projectName": "AccessModifiersLib",
-      "projectPath": "G:\\Projects\\C# Projects\\C# Concepts\\AccessModifiersLib\\AccessModifiersLib.csproj",
+      "projectUniqueName": "G:\\Projects\\C# Projects\\C# Concepts\\AccessModifiersLib\\InterfaceLibrary.csproj",
+      "projectName": "InterfaceLibrary",
+      "projectPath": "G:\\Projects\\C# Projects\\C# Concepts\\AccessModifiersLib\\InterfaceLibrary.csproj",
       "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
       "outputPath": "G:\\Projects\\C# Projects\\C# Concepts\\AccessModifiersLib\\obj\\",
       "projectStyle": "PackageReference",
