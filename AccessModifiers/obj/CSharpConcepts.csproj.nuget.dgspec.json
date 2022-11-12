@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "G:\\Projects\\C# Projects\\C# Concepts\\AccessModifiers\\AccessModifiers.csproj": {}
+    "G:\\Projects\\C# Projects\\C# Concepts\\AccessModifiers\\CSharpConcepts.csproj": {}
   },
   "projects": {
-    "G:\\Projects\\C# Projects\\C# Concepts\\AccessModifiers\\AccessModifiers.csproj": {
+    "G:\\Projects\\C# Projects\\C# Concepts\\AccessModifiers\\CSharpConcepts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\Projects\\C# Projects\\C# Concepts\\AccessModifiers\\AccessModifiers.csproj",
-        "projectName": "AccessModifiers",
-        "projectPath": "G:\\Projects\\C# Projects\\C# Concepts\\AccessModifiers\\AccessModifiers.csproj",
+        "projectUniqueName": "G:\\Projects\\C# Projects\\C# Concepts\\AccessModifiers\\CSharpConcepts.csproj",
+        "projectName": "CSharpConcepts",
+        "projectPath": "G:\\Projects\\C# Projects\\C# Concepts\\AccessModifiers\\CSharpConcepts.csproj",
         "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
         "outputPath": "G:\\Projects\\C# Projects\\C# Concepts\\AccessModifiers\\obj\\",
         "projectStyle": "PackageReference",
