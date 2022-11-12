@@ -1,0 +1,15 @@
+G:\Projects\C# Projects\C# Concepts\AccessModifiers\bin\Debug\net7.0\CSharpConcepts.exe
+G:\Projects\C# Projects\C# Concepts\AccessModifiers\bin\Debug\net7.0\CSharpConcepts.deps.json
+G:\Projects\C# Projects\C# Concepts\AccessModifiers\bin\Debug\net7.0\CSharpConcepts.runtimeconfig.json
+G:\Projects\C# Projects\C# Concepts\AccessModifiers\bin\Debug\net7.0\CSharpConcepts.dll
+G:\Projects\C# Projects\C# Concepts\AccessModifiers\bin\Debug\net7.0\CSharpConcepts.pdb
+G:\Projects\C# Projects\C# Concepts\AccessModifiers\obj\Debug\net7.0\CSharpConcepts.csproj.AssemblyReference.cache
+G:\Projects\C# Projects\C# Concepts\AccessModifiers\obj\Debug\net7.0\CSharpConcepts.GeneratedMSBuildEditorConfig.editorconfig
+G:\Projects\C# Projects\C# Concepts\AccessModifiers\obj\Debug\net7.0\CSharpConcepts.AssemblyInfoInputs.cache
+G:\Projects\C# Projects\C# Concepts\AccessModifiers\obj\Debug\net7.0\CSharpConcepts.AssemblyInfo.cs
+G:\Projects\C# Projects\C# Concepts\AccessModifiers\obj\Debug\net7.0\CSharpConcepts.csproj.CoreCompileInputs.cache
+G:\Projects\C# Projects\C# Concepts\AccessModifiers\obj\Debug\net7.0\CSharpConcepts.dll
+G:\Projects\C# Projects\C# Concepts\AccessModifiers\obj\Debug\net7.0\refint\CSharpConcepts.dll
+G:\Projects\C# Projects\C# Concepts\AccessModifiers\obj\Debug\net7.0\CSharpConcepts.pdb
+G:\Projects\C# Projects\C# Concepts\AccessModifiers\obj\Debug\net7.0\CSharpConcepts.genruntimeconfig.cache
+G:\Projects\C# Projects\C# Concepts\AccessModifiers\obj\Debug\net7.0\ref\CSharpConcepts.dll
